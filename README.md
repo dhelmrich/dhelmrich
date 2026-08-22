@@ -8,6 +8,12 @@ My main projects (Virtual Reality Root Tracing: VRoot and Synavis Synthetic Data
 - 👉 VRoot Paper [10.1016/j.plaphe.2025.100013](https://doi.org/10.1016/j.plaphe.2025.100013)
 - 👉 All other information... [dirkbaker.eu](https://www.dirkbaker.eu)
 
+If you are looking at this page for (software) reviews or similar, my expertise include:
+- Visualization, graphics, particularly also in-situ visualization and coupling
+- Data-driven engineering and data analysis pipelines
+- Workflow engineering, workflow systems, interactive computing
+- General AI, but particularly computer vision and agents in 3D environments
+
 <!--
 **dhelmrich/dhelmrich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
