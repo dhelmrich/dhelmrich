@@ -6,9 +6,9 @@ My main projects (Virtual Reality Root Tracing: VRoot and Synavis Synthetic Data
 
 - 👉 Synavis Paper [10.1093/insilicoplants/diad022](https://doi.org/10.1093/insilicoplants/diad022)
 - 👉 VRoot Paper [10.1016/j.plaphe.2025.100013](https://doi.org/10.1016/j.plaphe.2025.100013)
-- 👉 All other information... [dirkbaker.eu](https://www.dirkbaker.eu)
+- 👉 All other information and contact... [dirkbaker.eu](https://www.dirkbaker.eu)
 
-If you are looking at this page for (software) reviews or similar, my expertise include:
+If you are looking at this page for (software) reviews or similar, my expertise includes:
 - Visualization, graphics, particularly also in-situ visualization and coupling
 - Data-driven engineering and data analysis pipelines
 - Workflow engineering, workflow systems, interactive computing
